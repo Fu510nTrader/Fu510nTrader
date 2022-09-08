@@ -1,5 +1,7 @@
 ### Stay tuned! 👋
 
+![image](https://user-images.githubusercontent.com/112258425/189184549-f4706433-5935-4987-a92b-1302ea27fe69.png)
+
 <!--
 **Fu510nTrader/Fu510nTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
