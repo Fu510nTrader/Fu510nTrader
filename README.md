@@ -2,6 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/112258425/189184549-f4706433-5935-4987-a92b-1302ea27fe69.png)
 
+Python-based trading platform with:
+- Simulator with real-time & user-specifiable market replay speeds
+- DTN/IQFeed data integration (download & live chart updates)
+- Interactive Brokers, Alpaca & CCXT broker integration
+- Algo backtesting
+- Bar "microscope" (displays ticks for selected bar and prior)
+- Strategy optimization engine
+
 <!--
 **Fu510nTrader/Fu510nTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
